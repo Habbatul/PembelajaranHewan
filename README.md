@@ -1,6 +1,6 @@
 # PembelajaranHewan
 Aplikasi game AR pembelajaran hewan, dibuat dengan menggunakan Unity 2019
-Download file apk dan target AR <a href="https://github.com/Habbatul/PembelajaranHewan/releases/tag/Rilisan1">Disini</a>
+Download file apk dan target AR <b> <a href="https://github.com/Habbatul/PembelajaranHewan/releases/tag/Rilisan1">Disini</a></b>.
 
 -Untuk membuka proyek gunakan unity sesuai versi proyek ini dibuat, biasanya otomatis versi akan muncul pada unity, silahkan download.
 
