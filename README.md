@@ -6,4 +6,3 @@
 - Jangan lupa pastika sudah menginstall vuforia augmented reality supported pada player setting di build setting (tepatnya di XR Settings).
 
 untuk tutorial termudah dalam pembuatan aplikasi sejenis yang bisa diikuti bisa lihat : https://www.youtube.com/watch?v=DS8jrAi5LqM
-uehe
